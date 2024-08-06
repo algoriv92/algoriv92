@@ -1,5 +1,5 @@
 ### Welcome to my Github Profile 👋 
-What's up! I'm Alex, I'm a MSc Data Science student and here you can find a part of myself, from my very first code, forked repositories to my future personal projects, I hope you enjoy it!🙃
+What's up! I'm Alex, I'm a Data Engineer worker, I studied MSc Data Science and here you can find a part of myself, from my very first code, forked repositories to my future personal projects, I hope you enjoy it!🙃
 
 
 ### My contact: 
