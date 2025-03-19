@@ -1,6 +1,12 @@
-### Welcome to my Github Profile 👋 
-What's up! I'm Alex, I'm a Data Engineer worker, I studied MSc Data Science and here you can find a part of myself, from my very first code, forked repositories to my future personal projects, I hope you enjoy it!🙃
+# 👋 Welcome to my GitHub Portfolio  
+Hey there! I'm **Alex Gómez**, a **Data Engineer** with a background in **MSc Data Science**. Passionate about **big data, cloud computing, and machine learning**, I use this space to share my projects, contributions, and experiments.  
 
+🚀 Here, you'll find:
+- **Personal projects** showcasing my skills in data engineering, analytics, and AI.  
+- **Contributions** to open-source repositories.  
+- **Learning experiments**, from my first lines of code to advanced implementations.  
+
+💡 Always exploring new technologies and improving my craft. Feel free to connect! 
 
 ### My contact: 
 [![Gmail Badge](https://img.shields.io/badge/-algoriv92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:algoriv92@gmail.com)](mailto:'algoriv92@gmail.com')
